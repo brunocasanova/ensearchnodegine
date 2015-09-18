@@ -1,2 +1,2 @@
 # ensearchnodegine
-Full text search engine for node js
+Full text search engine for node js and mysql.
