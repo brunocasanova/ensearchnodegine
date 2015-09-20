@@ -1,0 +1,33 @@
+{
+  "name": "ensearchnodegine",
+  "version": "0.0.1",
+  "description": "Full text search engine for node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunocasanova/ensearchnodegine.git"
+  },
+  "keywords": [
+    "search",
+    "index",
+    "fulltext",
+    "full",
+    "text",
+    "node",
+    "match",
+    "against"
+  ],
+  "author": "Bruno Casanova <deftonicks_me@hotmail.com>",
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/brunocasanova/ensearchnodegine/issues"
+  },
+  "homepage": "https://github.com/brunocasanova/ensearchnodegine#readme",
+  "dependencies": {
+    "mysql": "^2.9.0"
+  }
+}
